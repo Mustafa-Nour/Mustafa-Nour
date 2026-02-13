@@ -27,8 +27,8 @@ I am a passionate **iOS Developer** dedicated to building high-performance, eleg
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Nour&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Mustafa's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Nour&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Nour&show_icons=true&theme=onedark" alt="Mustafa's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Nour&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
 
 ---
@@ -60,5 +60,5 @@ A premium movie discovery app featuring:
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" />
 </p>
