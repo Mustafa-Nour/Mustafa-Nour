@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mustafa Nour!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=7071f5&height=200&section=header&text=iOS%20Developer&fontSize=70&animation=fadeIn" width="100%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7071F5&center=true&vCenter=true&width=435&lines=iOS+Developer;Swift+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" /></a>
 </p>
 
 ### 👨‍💻 About Me
