@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mustafa Nour!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=iOS%20Developer&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=7071f5&height=200&section=header&text=iOS%20Developer&fontSize=70&animation=fadeIn" width="100%" />
 </p>
 
 ### 👨‍💻 About Me
@@ -55,8 +55,6 @@ A premium movie discovery app featuring:
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://github.com/Mustafa-Nour" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Mustafa-Nour" /></a>
-<!-- Add your LinkedIn below -->
-<!-- <a href="https://linkedin.com/in/YOUR_ID" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mustafa Nour" /></a> -->
 </p>
 
 ---
