@@ -24,14 +24,6 @@ I am a passionate **iOS Developer** dedicated to building high-performance, eleg
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Nour&show_icons=true&bg_color=0d1117&title_color=7071f5&icon_color=7071f5&text_color=c9d1d9&border_color=30363d&v=4" alt="Mustafa's Stats" />
-</p>
-
----
-
 ### 🚀 Highlighted Projects
 
 #### [Trending Movies 🎬](https://github.com/Mustafa-Nour/Trending-Movie-ios-app-uikit)
