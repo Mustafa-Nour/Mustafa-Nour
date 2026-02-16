@@ -26,18 +26,18 @@ I am a passionate **iOS Developer** dedicated to building high-performance, eleg
 
 ###  Highlighted Projects
 
-#### [Trending Movies 🎬](https://github.com/Mustafa-Nour/Trending-Movie-ios-app-uikit)
+#### [Trending Movies ](https://github.com/Mustafa-Nour/Trending-Movie-ios-app-uikit)
 A premium movie discovery app featuring:
 - **Custom Animated Launch Screen** with bounce physics.
 - **Dynamic Rating System** (Green/Orange/Red badges).
 - **Modern UI** with shadow-based card designs and refined typography.
 - **MVVM Architecture** for clean separation of concerns.
 
-#### [Swift DSA Practice 🧠](https://github.com/Mustafa-Nour/Swift-DSA-Practice)
+#### [Swift DSA Practice ](https://github.com/Mustafa-Nour/Swift-DSA-Practice)
 - **Problem Solving & Foundation**: My approach is to build every Data Structure from scratch (Linked Lists, Stacks, Trees, etc.) to understand the "under the hood" logic.
 - **Algorithm implementation**: Solving popular algorithmic challenges and optimizing space/time complexity.
 
-#### [Talabat Clone 📱](https://github.com/Mustafa-Nour/TalabatScreen-Swiftui)
+#### [Talabat Clone ](https://github.com/Mustafa-Nour/TalabatScreen-Swiftui)
 - A pixel-perfect UI clone of the Talabat home screen.
 - Built with **SwiftUI** using declarative UI patterns.
 
