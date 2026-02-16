@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Mustafa Nour!
+#  Hi, I'm Mustafa Nour!
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7071F5&center=true&vCenter=true&width=435&lines=iOS+Developer;Swift+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" /></a>
 </p>
 
-### 👨‍💻 About Me
+### About Me
 I am a passionate **iOS Developer** dedicated to building high-performance, elegant, and user-centric mobile applications. My focus is on clean architecture (MVVM), intuitive UI/UX, and writing maintainable, high-quality Swift code.
 
 - 🔭 Currently working on: **Advanced iOS Architecture & Animations**
@@ -13,7 +13,7 @@ I am a passionate **iOS Developer** dedicated to building high-performance, eleg
 
 ---
 
-### 🛠️ Technical Toolkit
+###  Technical Toolkit
 
 | Category | Technologies |
 |---|---|
@@ -24,7 +24,7 @@ I am a passionate **iOS Developer** dedicated to building high-performance, eleg
 
 ---
 
-### 🚀 Highlighted Projects
+###  Highlighted Projects
 
 #### [Trending Movies 🎬](https://github.com/Mustafa-Nour/Trending-Movie-ios-app-uikit)
 A premium movie discovery app featuring:
@@ -47,7 +47,7 @@ A premium movie discovery app featuring:
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 <p align="left">
 <a href="https://github.com/Mustafa-Nour" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Mustafa-Nour" /></a>
 </p>
