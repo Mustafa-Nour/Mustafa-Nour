@@ -7,9 +7,9 @@
 ### About Me
 I am a passionate **iOS Developer** dedicated to building high-performance, elegant, and user-centric mobile applications. My focus is on clean architecture (MVVM), intuitive UI/UX, and writing maintainable, high-quality Swift code.
 
-- 🔭 Currently working on: **Advanced iOS Architecture & Animations**
-- 🌱 Learning: **SwiftUI & Core Data Deep Dives**
-- ⚡ Fun fact: **I believe a smooth animation is the heart of a great app.**
+-  Currently working on: **Advanced iOS Architecture & Animations**
+-  Learning: **SwiftUI & Core Data Deep Dives**
+- ⚡Fun fact: **I believe a smooth animation is the heart of a great app.**
 
 ---
 
@@ -41,7 +41,7 @@ A premium movie discovery app featuring:
 - A pixel-perfect UI clone of the Talabat home screen.
 - Built with **SwiftUI** using declarative UI patterns.
 
-#### [iOS Task 🔐](https://github.com/Mustafa-Nour/ios-Task-)
+#### [iOS Task ](https://github.com/Mustafa-Nour/ios-Task-)
 - A login and registration system focused on **Localization** and accessibility.
 - Clean UIKit implementation with form validation.
 
