@@ -9,7 +9,7 @@ I am a passionate **iOS Developer** dedicated to building high-performance, eleg
 
 -  Currently working on: **Advanced iOS Architecture & Animations**
 -  Learning: **SwiftUI & Core Data Deep Dives**
-- ⚡Fun fact: **I believe a smooth animation is the heart of a great app.**
+- Fun fact: **I believe a smooth animation is the heart of a great app.**
 
 ---
 
