@@ -1,4 +1,4 @@
-#  Hi, I'm Mustafa Nour!
+#  Hi, I'm Mustafa Nour Aldin!
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7071F5&center=true&vCenter=true&width=435&lines=iOS+Developer;Swift+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" /></a>
