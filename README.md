@@ -35,6 +35,10 @@ A premium movie discovery app featuring:
   
 #### [Bankey-app](https://[github.com/Mustafa-Nour/ios-Task-](https://github.com/Mustafa-Nour/Bankey-app))
 - A professional iOS banking application built with UIKit, following modern engineering principles including MVVM architecture, Unit Testing, and Clean Code practices. Built as part of a hands-on UIKit professional iOS course.
+
+#### [iOS Task (assesment) ](https://github.com/Mustafa-Nour/ios-Task-)
+- A login and registration system focused on **Localization** and accessibility.
+- Clean UIKit implementation with form validation.
   
 #### [Swift DSA Practice ](https://github.com/Mustafa-Nour/Swift-DSA-Practice)
 - **Problem Solving & Foundation**: My approach is to build every Data Structure from scratch (Linked Lists, Stacks, Trees, etc.) to understand the "under the hood" logic.
